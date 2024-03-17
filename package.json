@@ -1,0 +1,31 @@
+{
+  "name": "ssv-price-checker",
+  "version": "1.0.1",
+  "description": "check  price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "apple8422",
+  "license": "ISC",
+  "dependencies": {
+    "alt-price-checker": "^1.0.0",
+    "axios": "^1.6.7",
+    "bnb-price-checker": "^1.0.3",
+    "btc-price-checker": "^1.0.4",
+    "eth-price-checker": "^1.0.2",
+    "chalk": "^5.3.0",
+    "jup-price-checker": "^1.0.1",
+    "pyth-price-checker": "^1.0.3",
+    "shell-oooooyoung": "^1.1.9",
+    "sol-price-checker": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apple8422/ssv-price-checker"
+  },
+  "bugs": {
+    "url": "https://github.com/apple8422/ssv-price-checker/issues"
+  },
+  "homepage": "https://github.com/apple8422/ssv-price-checker/blob/main/README.md"
+}
